@@ -71,3 +71,5 @@ The analysis centers around critical hotel performance indicators, including:
 
 
 This dashboard delivers a comprehensive view of AtliQ Grands’ performance across key cities, helping stakeholders identify issues, uncover patterns, and execute effective strategies. Through improved pricing, operational recovery, and optimized distribution channels, AtliQ Grands can regain its position in the luxury hotel segment.
+
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMDIyOTYzNDEtMTY2Mi00OTEyLWI0YzQtZTljODQyZjU0NDg5IiwidCI6IjlhNmIyNzNjLWI5MjYtNGQ1OS1hMDJlLTc4NmMyZTkyNzdmOCIsImMiOjl9
